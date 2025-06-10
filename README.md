@@ -1,16 +1,11 @@
 # Topic Modeling with LSA, NMF, and LDA
 
-This project explores topic modeling using unsupervised machine learning techniques such as **Latent Semantic Analysis (LSA)**, **Non-negative Matrix Factorization (NMF)**, and **Latent Dirichlet Allocation (LDA)**. It applies these models to a cleaned and preprocessed text dataset, leveraging vectorization methods like **TF-IDF** and **CountVectorizer** to extract topics.
+This project explores topic modeling using unsupervised machine learning techniques such as **Latent Semantic Analysis (LSA)**,
+
+**Non-negative Matrix Factorization (NMF)**, and **Latent Dirichlet Allocation (LDA)**.
+
+It applies these models to a cleaned and preprocessed text dataset, leveraging vectorization methods like **TF-IDF** and **CountVectorizer** to extract topics.
 ---
-
-## Project Structure
-
-Topic-Modeling/
-├── Topic Modeling.ipynb # Jupyter notebook with all topic modeling workflows
-├── requirements.txt # Required Python libraries
-└── README.md # Project documentation
-
-
 ## Techniques Used
 -  Text Cleaning (stopword removal, lemmatization)
 -  Vectorization: `CountVectorizer` & `TfidfVectorizer`
