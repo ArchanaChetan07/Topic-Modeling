@@ -3,7 +3,6 @@
 This project explores topic modeling using unsupervised machine learning techniques such as **Latent Semantic Analysis (LSA)**,
 
 **Non-negative Matrix Factorization (NMF)**, and **Latent Dirichlet Allocation (LDA)**.
-
 It applies these models to a cleaned and preprocessed text dataset, leveraging vectorization methods like **TF-IDF** and **CountVectorizer** to extract topics.
 ---
 ## Techniques Used
